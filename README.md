@@ -1,18 +1,12 @@
-# Remote Debugging
+# Advanced Debugging with PyCharm
 
-## Motivation
+### Webinar
 
-## SSH interpreters
+January 2020
 
-## Docker interpreters
+This is a repository for the second part of the "Advanced Debugging with PyCham
+" webinar.
+It contains:
 
-## Python Remote Debug Run Configuration
-
-# How Python Debugger Works
-
-## Python Tracing API
-
-## Tracing Calls
-
-## Tracing Lines
-
+* Sources for the Django polls app
+* `AdvancedDebugging.ipynb` file with steps of the demo description
