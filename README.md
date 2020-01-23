@@ -12,8 +12,9 @@ It contains:
 * Sources for the Django polls app
 * `AdvancedDebugging.ipynb` file with steps of the demo description
 
-
+To set up:
 
 ```
- 
+$ pip install -r requirements.txt
+$ python manage.py migrate
 ```
