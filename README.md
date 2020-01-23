@@ -11,3 +11,9 @@ It contains:
 
 * Sources for the Django polls app
 * `AdvancedDebugging.ipynb` file with steps of the demo description
+
+
+
+```
+ 
+```
