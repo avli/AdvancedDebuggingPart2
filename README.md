@@ -19,7 +19,7 @@ $ pip install -r requirements.txt
 $ python manage.py migrate
 ```
 
-#### Useful Links to Learn More about Python Debugging API
+### Useful Links to Learn More about Python Debugging API
 
 - [Python Module of the Week - Tracing a Program As It Runs](https://pymotw.com/2/sys/tracing.html)
 - [How do Ruby & Python profilers work?](https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/)
